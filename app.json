@@ -1,0 +1,6 @@
+{
+  "name": "test environment",
+  "description": "an environment to test things",
+  "image": "heroku/python",
+  "keywords": ["python" ]
+}
